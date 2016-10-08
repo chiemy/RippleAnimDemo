@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HollowCircleView">
+        <attr name="circle_out_color" format="color"/>
+        <attr name="circle_radius" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="RippleImageView">
+        <attr name="foreground" format="reference"/>
+    </declare-styleable>
+
+    <declare-styleable name="CircularImageView">
+        <attr name="radius" format="dimension"></attr>
+    </declare-styleable>
+</resources>
